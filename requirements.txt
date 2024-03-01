@@ -8,6 +8,7 @@ djangorestframework==3.14.0
 djangorestframework-simplejwt==5.3.1
 gunicorn==21.2.0
 jmespath==1.0.1
+libxml2-python
 packaging==23.2
 prelude==5.2.0
 psycopg2-binary==2.9.9
